@@ -1,5 +1,5 @@
 ## Exp. No. 1(c)
-**Date:**  
+**Date:*01/09/25*  
 
 ## FREQUENCY RESPONSE OF CURRENT SERIES FEEDBACK AMPLIFIER
 <img width="804" height="973" alt="image" src="https://github.com/user-attachments/assets/2ac932c7-64fa-4b6b-b572-2b3cfd8ae11a" />
@@ -15,12 +15,15 @@
 
 
 # Tabulation
+![WhatsApp Image 2025-11-16 at 22 12 54_458a035c](https://github.com/user-attachments/assets/406251f5-2013-46b3-a306-a6f3f205bd32)
 
 
 # Graph
+![WhatsApp Image 2025-11-16 at 22 13 50_72dc6683](https://github.com/user-attachments/assets/106f3f0e-691f-49b5-8f54-181c2b8c694e)
 
 
 # Sample images 
+![WhatsApp Image 2025-11-16 at 21 22 44_e7fb4d34](https://github.com/user-attachments/assets/8201ebc2-ad99-446b-93d1-33d389cf22ba)
 
 
 ### **Result**
@@ -28,11 +31,11 @@
 Thus the current series  feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | f1=5KHZ | f1"=3.5KHZ |
+| 2 | Upper cut-off frequency | f2=1.5MHZ | f2"=550KHZ |
+| 3 | Bandwidth | \( BW = fh - fl =1.495MHZ \) | \( BW = f'h - f'l =5.465KHZ \) |
+| 4 | Mid-band Gain | \( A{v(mid)} =26.52 \) | \( A'{v(mid)} =11.12 \) |
+| 5 | Gain at half power point | 18.75 | 7.86 |
 
 ---
 

@@ -1,5 +1,5 @@
 ## Exp. No. 4
-**Date:**  
+**Date:*06/10/25*  
 
 ## RC INTEGRATOR AND RC DIFFERENTIATOR
 <img width="486" height="664" alt="image" src="https://github.com/user-attachments/assets/9cd74d70-fbc8-41a1-9297-ac8f65775583" />
@@ -21,13 +21,18 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+![WhatsApp Image 2025-11-17 at 08 56 45_24ce5d4c](https://github.com/user-attachments/assets/ca9bfb38-7061-484c-86be-04dcc0a38506)
 
 
 # Graph
+![WhatsApp Image 2025-11-17 at 08 57 33_b94fb8be](https://github.com/user-attachments/assets/484640a4-6fbd-4920-b37d-21b057fbcd3d)
+![WhatsApp Image 2025-11-17 at 09 01 36_e314daae](https://github.com/user-attachments/assets/01137fad-586b-45a0-a7c5-b1eaf8411357)
 
 
 # Sample images 
+![WhatsApp Image 2025-11-17 at 09 03 51_60ce55e9](https://github.com/user-attachments/assets/76eac9c4-572c-4850-a9be-75340b7b0699)
+
 
 
 # Result
-
+Thus different  linear wave shaping circuits are studied and their output waveforms are plotted.
